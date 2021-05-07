@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Get Jabbed</string>
+    <string name="enter_phone_number">Enter phone Number</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="enter_choice">enter choice…</string>
+    <string name="start">Start</string>
+    <string name="login">Login</string>
+    <string name="select_beneficiary">select Beneficiaries</string>
+    <string name="selected_beneficiaries">selected beneficiaries :</string>
+    <string name="progress">…</string>
+    <string name="search">Search</string>
+    <string name="stop_search">stop search</string>
+    <string name="pincode_prefix">Pincode prefix</string>
+    <string name="example">ex: 4220 for 422001, 422027 etc</string>
+</resources>
